@@ -72,3 +72,6 @@ Plugins/**/Intermediate/*
 
 # Cache files for the editor to use
 DerivedDataCache/*
+VanillaVR/Binaries/Win64/VanillaVREditor.target
+VanillaVR/Binaries/Win64/UnrealEditor.modules
+VanillaVR/Binaries/Win64/UnrealEditor-VanillaVR.pdb
