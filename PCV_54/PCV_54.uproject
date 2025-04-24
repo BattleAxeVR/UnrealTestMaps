@@ -11,6 +11,7 @@
 				"Win64",
 				"Linux",
 				"Android",
+				"PS5",
 				"VisionOS"
 			]
 		},
