@@ -4,6 +4,17 @@
 	"Category": "",
 	"Description": "",
 	"Plugins": [
+		{
+			"Name": "OpenXR",
+			"Enabled": true,
+			"SupportedTargetPlatforms": [
+				"Win64",
+				"Linux",
+				"Android",
+				"PS5",
+				"VisionOS"
+			]
+		}
 	],
 	"TargetPlatforms": [
 		"Android",
