@@ -82,5 +82,13 @@ HL_Vanilla_VR/HL_VANILLA_VR/Intermediate/*
 HL_Vanilla_VR/HL_VANILLA_VR/Saved/*
 HL_Vanilla_VR/HL_VANILLA_VR/Binaries/*
 
+VanillaVR/Intermediate/*
+VanillaVR/Saved/*
 VanillaVR/Binaries/*
 VanillaVR/Build/*
+
+UE554_Projects/SO_554_Test/Intermediate/*
+UE554_Projects/SO_554_Test/Saved/*
+UE554_Projects/SO_554_Test/Binaries/*
+UE554_Projects/SO_554_Test/Build/*
+
