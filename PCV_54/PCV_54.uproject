@@ -3,6 +3,13 @@
 	"EngineAssociation": "{75DC2035-42F2-33A7-2176-CBA0DA850700}",
 	"Category": "",
 	"Description": "",
+	"Modules": [
+		{
+			"Name": "PCV_54",
+			"Type": "Runtime",
+			"LoadingPhase": "Default"
+		}
+	],
 	"Plugins": [
 		{
 			"Name": "OpenXR",
