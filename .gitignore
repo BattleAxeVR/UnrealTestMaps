@@ -78,6 +78,9 @@ VanillaVR/Binaries/Win64/UnrealEditor-VanillaVR.pdb
 
 PCV_54/Saved/*
 PCV_54/Intermediate/*
+PCV_54/Binaries/*
+PCV_54/Build/*
+
 HL_Vanilla_VR/HL_VANILLA_VR/Intermediate/*
 HL_Vanilla_VR/HL_VANILLA_VR/Saved/*
 HL_Vanilla_VR/HL_VANILLA_VR/Binaries/*
@@ -92,3 +95,7 @@ UE554_Projects/SO_554_Test/Saved/*
 UE554_Projects/SO_554_Test/Binaries/*
 UE554_Projects/SO_554_Test/Build/*
 
+PCV_54/SO_554_Test/Intermediate/*
+PCV_54/SO_554_Test/Saved/*
+PCV_54/SO_554_Test/Binaries/*
+PCV_54/SO_554_Test/Build/*
