@@ -34,12 +34,8 @@
 			]
 		},
 		{
-			"Name": "OculusXR",
-			"Enabled": true,
-			"SupportedTargetPlatforms": [
-				"Win64",
-				"Android"
-			]
+			"Name": "Bridge",
+			"Enabled": false
 		}
 	],
 	"TargetPlatforms": [
